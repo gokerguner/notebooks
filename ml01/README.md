@@ -5,3 +5,6 @@ Machine Learning yazılarımın ilkinde;
 - scikit-learn metodlarını kullanarak kNN algoritmasının performansını bir veri seti üzerinde görüyoruz.
 - Modelin başarımını artırmak için kullanabileceğimiz cross-validation yöntemiyle ilgili bilgi verip, yine Python dilinde bir Grid Search cross-validation
 implementasyonu yaparak bu bölümü noktalıyoruz.
+
+TR: https://gokerguner.medium.com/machine-learning-1-7d4581caa291
+EN: https://gokerguner.medium.com/machine-learning-1-432f458ddc51
