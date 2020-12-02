@@ -7,4 +7,5 @@ Machine Learning yazılarımın ilkinde;
 implementasyonu yaparak bu bölümü noktalıyoruz.
 
 TR: https://gokerguner.medium.com/machine-learning-1-7d4581caa291
+
 EN: https://gokerguner.medium.com/machine-learning-1-432f458ddc51
