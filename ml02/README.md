@@ -1,3 +1,5 @@
+# Machine Learning #2 - Korelasyon Matrisi, Özellik Seçimi, Sınıfların Dengesizliği, Karar Ağaçları, Kesinlik/Duyarlılık/F1 Skoru
+
 Merhabalar, Machine Learning serimin ikinci notebook'unda 
 - Yeni bir sınıflandırma modelini kullanacak
 - Tahminleyici değişkenlerin hedef değişken ile aralarındaki ilişkiyi inceleyecek
