@@ -1,0 +1,10 @@
+2022-03-20 15:51:20,041 - ERROR - Exception thrown
+Traceback (most recent call last):
+  File "/var/folders/9k/g_dyhr955x364hgp3rn4c7s40000gn/T/ipykernel_21268/1888412459.py", line 14, in <module>
+    result = 5 / 0
+ZeroDivisionError: division by zero
+2022-03-20 15:51:20,090 - ERROR - division by zero error occured, details in below
+Traceback (most recent call last):
+  File "/var/folders/9k/g_dyhr955x364hgp3rn4c7s40000gn/T/ipykernel_21268/3843085982.py", line 15, in <module>
+    result = 5 / 0
+ZeroDivisionError: division by zero
